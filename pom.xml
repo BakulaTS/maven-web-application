@@ -100,7 +100,7 @@
 	      <id>nexus</id>
 	      <name>FB Releases Nexus Repository</name>
 	      <url>http://52.66.199.87:8081/repository/fb-release/</url>
-	    </repository>
+            </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
